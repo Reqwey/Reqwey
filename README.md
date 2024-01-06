@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning for Gaokao
 - 📫 Reach me on Telegram: [@yReqwey](https://t.me/yReqwey), glad to make friend with you.
 
-![skills](https://skillicons.dev/icons?i=cpp,electron,bash,cloudflare,express,git,github,html,md,mysql,js,nodejs,vscode,workers)
+![skills](https://skillicons.dev/icons?i=cpp,electron,react,vite,nextjs,mysql,ts,js,nodejs,vscode,workers)
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=reqwey&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Reqwey's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=reqwey&layout=compact&langs_count=8&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=reqwey&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Reqwey's GitHub stats" height="185px" />
 
 <!---
 Reqwey/Reqwey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
